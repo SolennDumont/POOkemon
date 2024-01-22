@@ -1,7 +1,7 @@
 ### POOkemon : le jeu orienté objet
 
 Le projet présente un jeu de combat entre pokémons.
-.
+
 ## Démarrage
 
 Run le fichier "main.py"
@@ -28,4 +28,5 @@ Python 3.7.9 64-bit | Spyder IDE 5.2.1
 Koloina Randrianavony \
 Solenn Dumont Le Brazidec
 
-Master 1 SPI ISI 2023
+Master 1 SPI ISI \
+Janvier 2023
