@@ -13,7 +13,7 @@ Le jeu est la classe la plus haute de la hiérarchie. Elle instancie tous les ob
 Une compétence appartient et ne peut pas exister sans un pokémon : Composition \
 Un pokémon appartient à un dresseur mais peut exister sans lui : Agrégation \
 Les classes JcJ et JcE possède et utilise des dresseurs et des pokémons mais ceux là peuvent aussi exister en dehors : Agrégation \
-Certains méthodes de Combat utilise des objets de la classe Pokémon. \
+Certains méthodes de Combat utilise des objets de la classe Pokémon. 
 
 Encapsulation : \
 Tous les attributs qui ont été mis en privé ne doivent pas être modifié extérieurement à leur classe. Certains attributs ont aussi des valeurs qu'on fixe à l'aide de setters. \
